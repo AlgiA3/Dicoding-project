@@ -1,0 +1,10 @@
+Terlepas dari penerapan sistem berbagi sepeda di dunia nyata yang menarik, karakteristik data yang dihasilkan oleh
+sistem ini membuatnya menarik untuk penelitian. Berbeda dengan layanan transportasi lain seperti bus atau kereta bawah tanah, durasinya
+posisi perjalanan, keberangkatan dan kedatangan dicatat secara eksplisit dalam sistem ini. Fitur ini mengubah sistem bike sharing menjadi
+jaringan sensor virtual yang dapat digunakan untuk merasakan mobilitas di kota. Oleh karena itu, diharapkan menjadi hal yang paling penting
+peristiwa di kota dapat dideteksi melalui pemantauan data ini.
+
+
+Seberapa besar faktor cuaca mempengaruhi penggunaan sepeda di layanan Bike Sharing?
+- Pada musim apakah banyak orang menggunakan layanan Bike Sharing?
+- Bagaimana pola pengguna layanan Bike Sharing berdasarkan hari dalam seminggu?
